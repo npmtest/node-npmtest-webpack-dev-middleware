@@ -1,4 +1,7 @@
-# test coverage for  [webpack-dev-middleware (v1.10.1)](http://github.com/webpack/webpack-dev-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-webpack-dev-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webpack-dev-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware)
+# npmtest-webpack-dev-middleware
+
+#### test coverage for  [webpack-dev-middleware (v1.10.1)](http://github.com/webpack/webpack-dev-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-webpack-dev-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webpack-dev-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware)
+
 #### Offers a dev middleware for webpack, which arguments a live bundle to a directory
 
 [![NPM](https://nodei.co/npm/webpack-dev-middleware.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webpack-dev-middleware)
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-webpack-dev-middleware/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/screenCapture.buildCi.browser.coverage.example.html.png)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/screenCapture.buildCi.browser.test-report.html.png)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webpack-dev-middleware/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webpack-dev-middleware/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.html](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-webpack-dev-middleware/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webpack-dev-middleware/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webpack-dev-middleware/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webpack-dev-middleware/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/screenCapture.npmPackageListing.svg)
 
