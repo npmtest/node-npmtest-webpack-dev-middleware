@@ -1,6 +1,6 @@
 # npmtest-webpack-dev-middleware
 
-#### test coverage for  [webpack-dev-middleware (v1.10.1)](http://github.com/webpack/webpack-dev-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-webpack-dev-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webpack-dev-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware)
+#### basic test coverage for  [webpack-dev-middleware (v1.10.2)](http://github.com/webpack/webpack-dev-middleware)  [![npm package](https://img.shields.io/npm/v/npmtest-webpack-dev-middleware.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webpack-dev-middleware) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware.svg)](https://travis-ci.org/npmtest/node-npmtest-webpack-dev-middleware)
 
 #### Offers a dev middleware for webpack, which arguments a live bundle to a directory
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-webpack-dev-middleware/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-webpack-dev-middleware/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-webpack-dev-middleware/build/coverage.html/index.html)
 
@@ -63,8 +63,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "c6b4cf428139cf1aefbe06a0c00fdb4f8da2f893",
-        "tarball": "https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-1.10.1.tgz"
+        "shasum": "2e252ce1dfb020dbda1ccb37df26f30ab014dbd1",
+        "tarball": "https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-1.10.2.tgz"
     },
     "engines": {
         "node": ">=0.6"
@@ -73,7 +73,7 @@
         "middleware.js",
         "lib/"
     ],
-    "gitHead": "8e870fdb313e83bf2562e4fd4d5735035074903f",
+    "gitHead": "9b03d791c6641ad7e8eaba2255b95777e30630ed",
     "homepage": "http://github.com/webpack/webpack-dev-middleware",
     "license": "MIT",
     "main": "middleware.js",
@@ -108,7 +108,8 @@
         "test": "mocha --full-trace --check-leaks",
         "travis": "npm run cover -- --report lcovonly && npm run lint"
     },
-    "version": "1.10.1"
+    "version": "1.10.2",
+    "bin": {}
 }
 ```
 
